@@ -26,4 +26,7 @@ const heroes = [
     },
 ];
 
-const owners = ['DC','Marvel'];
+//para exportar el array 
+export const owners = ['DC','Marvel'];
+
+export default heroes;
